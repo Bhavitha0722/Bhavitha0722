@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pandhikunta Bhavitha A passionate Full Stack Developer, Python Programmer, and Machine Learning Enthusiast dedicated to building impactful software solutions.</h1>
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | Python • Java • Django • Spring Boot • Machine Learning</h3>
 
-<p align="left"> <img src="coding_girl.gif" alt="bhavitha0722" /> </p>
+<p> <img align="right" alt="Coding" width="280" src="coding_girl.gif"> </p>
 
 - 🔭 I’m currently working on **Todo Application**
 
