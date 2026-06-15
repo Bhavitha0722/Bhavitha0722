@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pandhikunta Bhavitha A passionate Full Stack Developer, Python Programmer, and Machine Learning Enthusiast dedicated to building impactful software solutions.</h1>
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | Python • Java • Django • Spring Boot • Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavitha0722&label=Profile%20views&color=0e75b6&style=flat" alt="bhavitha0722" /> </p>
+<p align="left"> <img src="coding_girl.gif" alt="bhavitha0722" /> </p>
 
 - 🔭 I’m currently working on **Todo Application**
 
