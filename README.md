@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Todo Application**
 
-- 🌱 I’m currently learning **Django, spring, springboo,java, REST APIs, Machine Learning, System Design**
+- 🌱 I’m currently learning **Django, spring, springboot,java, REST APIs, Machine Learning, System Design**
 
 - 👯 I’m looking to collaborate on [Full Stack Web Development, Django, and Machine Learning Projects](https://github.com/Bhavitha0722)
 
